@@ -2,7 +2,7 @@
 ## Task goal:
 #### Implement digital signature algorithm
 ## Workflow:
-##### Implemented RSA asymmetric cryptosystem with encrypt/decrypt and digital\_sign/verify\_authenticity fuctions. Created tests for these fuctions.
+##### Implemented RSA asymmetric cryptosystem with encrypt/decrypt and digital\_sign/verify\_authenticity functions. Created tests for these fuctions.
 ##### Used libraries: **math, hashlib, Crypto.Util**
 ### Program execution example:
 ```sh
